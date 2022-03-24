@@ -4,7 +4,8 @@
   "info": {
     "singularName": "todo",
     "pluralName": "todos",
-    "displayName": "todo"
+    "displayName": "todo",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false

@@ -1,3 +1,4 @@
+process.env.DATABASE_URL
 module.exports = ({ env }) => ({
 	connection: {
 	  client: 'postgres',
